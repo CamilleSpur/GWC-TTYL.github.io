@@ -1,0 +1,27 @@
+h2{color: #47d1d1;
+   font-family: Montserrat, sans-serif;
+   font-size: 35px;
+   text-align: center;
+ }
+h1{
+   color: #47d1d1;
+   font-family: Montserrat, sans-serif;
+   font-size: 50px;
+   text-align: center;
+}
+p { color: #2aa2a2;
+   font-family: Montserrat, sans-serif;
+   font-size: 25px;
+	line-height: 2em;}
+
+body {
+	 
+   text-align: center;
+	
+}
+a{
+	color: #2aa2a2;
+   font-family: Montserrat, sans-serif;
+   font-size: 25px;
+	line-height: 2em;
+}
